@@ -11,4 +11,6 @@ Para correrlo hay que hacer
 
 3-run: pip install -r requirements.txt in your shell.
 
+4.-Crear carpeta img
+
 Y disfruta y mejora
